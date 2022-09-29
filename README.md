@@ -2,6 +2,5 @@
 
 Grant Norman
 
-## Features_ELM_Batch.ipynb
-In this [notebook](./Features_ELM_Batch.ipynb), I go through the activity suggested in class, where polynomial features are created on unnormalized data, and then the data is normalized. I extend this activity by introducing other methods besides polynomials to create features with linear coefficients. One of these methods is an Extreme Learning Machine (ELM), where the basis functions are given by untrained fully connected neural networks.
-
+## Reg_Batch_L2.ipynb
+In this [notebook](./Reg_Batch_L2.ipynb), I go through the activity suggested in class, where polynomial features are created on unnormalized data, and then the data is normalized. I extend this activity by introducing other methods besides polynomials to create features with linear coefficients. This clarifies how this method is generalized to neural networks. I also add $L^2$ regularization, and show that this method gives similar effects, although it introduces an extra hyperparameter to determine.
